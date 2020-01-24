@@ -1,0 +1,19 @@
+.council-group {
+	padding: 10px 5px;
+	line-height: 20px;
+    background: #F8F8F8;
+    box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.22);
+    /*border-left: 3px solid green;*/
+    margin:5px 5px;
+    min-width: 450px;
+}
+
+.photo img {
+	border-radius: 50%;
+	height:75px;
+	width: 75px;
+}
+
+.content p {
+	text-align: center;
+}

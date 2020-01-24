@@ -1,0 +1,27 @@
+.form .form-actions{
+	padding: 0px;
+}
+
+#new_poll ul.poll-options {
+	list-style: none;
+}
+
+#new_poll ul.poll-options li{
+	display: inline-block;
+	padding: 3px 18px 3px 10px;
+    margin: 5px 0 3px 5px;
+    border: 1px solid #e5e5e5;
+    background-image: none;
+    background-color: #fff;
+    filter: none;
+    -webkit-box-shadow: none !important;
+    box-shadow: none !important;
+    position: relative;
+    color: #333;
+    cursor: default;
+}
+
+.portlet {
+    box-shadow: none;
+}
+
